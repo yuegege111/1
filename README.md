@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: /img/yunmu.png
-actionText: 博客笔记 →
+actionText: 个人笔记 →
 heroText: 我的主页
 actionLink: /guide/
 features:
